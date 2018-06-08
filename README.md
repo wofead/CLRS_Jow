@@ -1,3 +1,5 @@
-# holle_word
-custom and start
-all over the world,maybe you are right,but in most time,you believe you are not best.
+# This remote is to learn CLRS
+## Sort
+1. Insert
+2. Select
+3. Merge
